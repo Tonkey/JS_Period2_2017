@@ -1,0 +1,16 @@
+{
+  "name": "Studyware-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.11.13",
+    "nodemon": "^1.12.1"
+  }
+}
